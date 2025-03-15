@@ -3,6 +3,7 @@ This repository provides a general introduction and technical overview of the Lo
 
 You can find the **LIN Specification Package Revision 2.2A** attached in the files section. Here are some useful sources for further reference:
 
+- [LIN standards and specifications](https://www.lin-cia.org/standards/)
 - [LIN - Wikipedia](https://en.wikipedia.org/wiki/Local_Interconnect_Network)
 - [LIN Bus Explained - A Simple Intro 2025](https://www.csselectronics.com/pages/lin-bus-protocol-intro-basics)
 - [LIN Bus Explained - Video](https://www.youtube.com/watch?v=TresvW4dxlc)

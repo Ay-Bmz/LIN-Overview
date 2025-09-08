@@ -1,4 +1,4 @@
-# LIN-Overview
+# LIN-Overview !
 This repository provides a general introduction and technical overview of the Local Interconnect Network (LIN) protocol, widely used in automotive applications for communication between ECUs (Electronic Control Units). It covers the fundamentals of the protocol, its architecture, and key concepts, providing an insightful guide for those looking to understand LIN communication and its role in automotive systems.
 
 You can find the **LIN Specification Package Revision 2.2A** attached in the files section. Here are some useful sources for further reference:
